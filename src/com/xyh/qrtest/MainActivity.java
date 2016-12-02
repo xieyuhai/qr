@@ -10,9 +10,9 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.EditText;
 import android.widget.TextView;
-   
 /**
- * 
+ * csdn地址：http://blog.csdn.net/u010945409/article/details/53434266
+ * github地址:https://github.com/xieyuhai/qr
  * @author xieyuhai
  * @date 2016年12月2日
  * @version 1.0
